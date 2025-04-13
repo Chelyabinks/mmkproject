@@ -21,7 +21,6 @@ const History = () => {
     <img
       src="/lovable-uploads/mmk1.png"
       alt="Территория будущего комбината, 1929 год"
-      className="w-full h-auto rounded-xl shadow-xl object-cover"
     />
     <p className="text-sm text-gray-700 mt-3">Территория будущего комбината, 1929 год</p>
   </div>
@@ -29,7 +28,6 @@ const History = () => {
     <img
       src="/lovable-uploads/mmk3.png"
       alt="Начало строительных работ"
-      className="w-full h-auto rounded-xl shadow-xl object-cover"
     />
     <p className="text-sm text-gray-700 mt-3">Начало строительных работ. 1930 год</p>
   </div>
@@ -40,7 +38,6 @@ const History = () => {
     <img
       src="/lovable-uploads/mmk4.png"
       alt="Территория будущего комбината, 1929 год"
-      className="w-full h-auto rounded-xl shadow-xl object-cover"
     />
     <p className="text-sm text-gray-700 mt-3">Первые строители Магнитки. 1929 год</p>
   </div>
@@ -48,7 +45,6 @@ const History = () => {
     <img
       src="/lovable-uploads/mmk5.png"
       alt="Начало строительных работ"
-      className="w-full h-auto rounded-xl shadow-xl object-cover"
     />
     <p className="text-sm text-gray-700 mt-3">Палатки первостроителей Магнитки. 1930 год</p>
   </div>
@@ -61,7 +57,6 @@ const History = () => {
       <img
         src="/lovable-uploads/mmk6.png"
         alt="Плавка железа. 1935 г."
-        className="w-full h-auto object-cover rounded-sm"
       />
     </div>
     <p className="mt-2 text-sm text-gray-700 italic">Плавка железа. 1935 г.</p>
@@ -138,7 +133,6 @@ const History = () => {
     <img
       src="/lovable-uploads/kmsdom.png"
       alt="Начало строительных работ"
-      className="w-full h-auto rounded-xl shadow-xl object-cover"
     />
     <p className="text-sm text-gray-700 mt-3"></p>
   </div>
@@ -150,7 +144,7 @@ const History = () => {
     <img
       src="/lovable-uploads/mmk12.png"
       alt="Начало строительных работ"
-      className="w-full h-auto rounded-xl shadow-xl object-cover"
+      className="w-full h-auto object-cover"
     />
     <p className="text-sm text-gray-700 mt-3"></p>
   </div>        
